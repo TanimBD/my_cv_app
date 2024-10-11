@@ -2,12 +2,12 @@
 
 A new Flutter project.
 
-                     Image.asset(
+- [screenshot](Image.asset(
                                'assets/images/Screenshot 2024-10-04 194725.png',
                                   width: 300,
                                   height: 300,
                                   fit: BoxFit.cover,  
-                                )
+                                ))
 
 ## Getting Started
 
